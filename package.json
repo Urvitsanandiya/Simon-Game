@@ -1,0 +1,15 @@
+{
+    "name": "simon-game",
+    "version": "1.0.0",
+    "description": "A simple Simon Game",
+    "main": "index.html",
+    "scripts": {
+        "start": "serve ."
+    },
+    "dependencies": {
+        "serve": "^14.2.3"
+    },
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
